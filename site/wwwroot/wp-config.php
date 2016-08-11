@@ -26,10 +26,10 @@ define('DB_NAME', 'techlifemxwpdb');
 define('DB_USER', 'b888366117eb63');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'adb87995');
+define('DB_PASSWORD', '******');
 
 /** MySQL hostname */
-define('DB_HOST', 'us-cdbr-azure-southcentral-e.cloudapp.net');
+define('DB_HOST', '************************');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'arca-123');
-define('SECURE_AUTH_KEY',  'arca-123');
-define('LOGGED_IN_KEY',    'arca-123');
-define('NONCE_KEY',        'arca-123');
-define('AUTH_SALT',        'arca-123');
-define('SECURE_AUTH_SALT', 'arca-123');
-define('LOGGED_IN_SALT',   'arca-123');
-define('NONCE_SALT',       'arca-123');
+define('AUTH_KEY',         '*******');
+define('SECURE_AUTH_KEY',  '*******');
+define('LOGGED_IN_KEY',    '*****');
+define('NONCE_KEY',        '');
+define('AUTH_SALT',        '');
+define('SECURE_AUTH_SALT', '');
+define('LOGGED_IN_SALT',   '');
+define('NONCE_SALT',       '');
 
 /**#@-*/
 
